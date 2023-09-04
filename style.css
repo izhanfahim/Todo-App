@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#container{
+    max-width: 700px;
+
+}
+
+.buttons{
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+}
+
+.list{
+    margin-top: 10px;
+    list-style-type: decimal;
+}
+
+.listitem{
+    margin-top: 5px;
+    /* border: 1px solid black; */
+    /* list-style-position: inside;/ */
+}
+
+
+.listitem button {
+    border: none;
+    font-size:20px ;
+    background-color: #ffffff;
+    text-align: right;
+}
+
+#inp{
+    width: 450px;
+}
